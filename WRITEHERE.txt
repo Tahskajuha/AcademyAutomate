@@ -1,0 +1,9 @@
+Enter the amount of scrolls below (replace '1 2 3' with amount of scrolls and separate each number with only space as shown):
+
+1 2 3
+
+Now enter the coordinates of each cursor point (for example replace 'buttonX1' with x coordinate of the button):
+
+startX1, startY1
+playX1, playY1
+learningPathDetailX1, learningPathDetailY1
