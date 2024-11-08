@@ -32,7 +32,7 @@ Loop, read, %filePath%
             Send, {WheelDown}
             Sleep, 100
         }
-        Sleep, 1000
+        Sleep, 3000
         Send, {LButton}
         Sleep, 5000
         MouseMove, XArray[2], YArray[2]
